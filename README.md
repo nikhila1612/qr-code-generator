@@ -1,6 +1,9 @@
 # QR Code Generator
 This is a simple Node.js script that prompts the user to input a URL, generates a QR code image based on the URL, and saves it to a file named 'qr-image.png'. It also saves the URL to a text file named 'url.txt'.
 
+## Screenshot
+![qrgenerator](https://github.com/nikhila1612/qr-code-generator/assets/84263617/507e4246-17b8-4bec-b70d-d91df0cea595)
+
 ## Installation
 1. Make sure you have Node.js installed on your system.
 2. Clone this repository.
